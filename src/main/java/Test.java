@@ -23,4 +23,8 @@ public class Test {
      public void print2 () {
         System.out.println("Hello World!s");
     }
+
+    public void bug_fix() {
+
+    }
 }
