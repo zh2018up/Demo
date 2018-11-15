@@ -9,9 +9,13 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
-sdfa
     public void print () {
         System.out.println("Hello World!--dfs");
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
     }
      public void print2 () {
         System.out.println("Hello World!s");
