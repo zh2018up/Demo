@@ -13,4 +13,7 @@ sdfa
     public void print () {
         System.out.println("Hello World!--dfs");
     }
+     public void print2 () {
+        System.out.println("Hello World!s");
+    }
 }
