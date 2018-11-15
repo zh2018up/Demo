@@ -12,6 +12,8 @@ public class Test {
     public void print () {
         Test test = new Test();
         test.print();
+        Object obj = new Object();
+        System.out.println();
     }
 
     @Override
