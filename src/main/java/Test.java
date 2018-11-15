@@ -10,7 +10,8 @@ public class Test {
         System.out.println("Hello World!");
     }
     public void print () {
-        System.out.println("Hello World!--dfs");
+        Object obj = new Object();
+        System.out.println();
     }
 
     @Override
